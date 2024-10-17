@@ -19,7 +19,7 @@ my_dict['list'].pop(1)
 print(my_dict['list'])
 print('-' * 100)
 
-my_dict['dict']['i am a tuple'] = '2'
+my_dict['dict'][('i am a tuple',)] = '2'
 del my_dict['dict']['5']
 print(my_dict['dict'])
 print('-' * 100)
