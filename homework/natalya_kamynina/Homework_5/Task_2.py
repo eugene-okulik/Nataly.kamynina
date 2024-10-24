@@ -15,7 +15,7 @@ print(result1)
 print('_' * 100)
 
 ccc = 'результат работы программы: 9'
-result_text2 = ccc [-1:]
+result_text2 = ccc[-1:]
 result_int2 = int(result_text2)
 result2 = result_int2 + 10
 print(result2)
