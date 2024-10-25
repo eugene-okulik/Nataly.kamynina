@@ -10,9 +10,10 @@ bbb = 'результат операции: 514'
 result_text1 = bbb[-3:]
 result_int1 = int(result_text1)
 result1 = result_int1 + 10
+
 print(result1)
 
-print('_' * 100)
+print('_' * 110)
 
 ccc = 'результат работы программы: 9'
 result_text2 = ccc[-1:]
