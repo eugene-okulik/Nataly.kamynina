@@ -11,7 +11,3 @@ for word in new_text_split:
     else:
         result = word + 'ing'
         print(result)
-
-
-
-
