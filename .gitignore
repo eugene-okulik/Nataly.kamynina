@@ -6,3 +6,4 @@ venv
 __pycache__
 credentials.py
 .env
+hs_err_pid20352.log
