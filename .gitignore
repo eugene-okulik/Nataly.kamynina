@@ -3,6 +3,7 @@ venv
 .DS_Store
 .pytest_cache
 .venv
+.my_venv
 __pycache__
 credentials.py
 .env
